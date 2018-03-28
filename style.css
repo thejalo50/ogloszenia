@@ -1,0 +1,49 @@
+#naglowek {
+  border: 5px solid black;
+  height: 150px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#menu {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 28px;
+  padding: 5px;
+  margin: 10px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #000;
+  border: 2px solid black;
+  padding: 5px 10px;
+}
+
+#tresc {
+  clear: both;
+  width: 1200px;
+  float: none;
+  margin: 0 auto;
+}
+
+.tresc {
+  width: 380px;
+  float: left;
+  border: 1px solid black;
+  background-color: #fff;
+  margin: 0 5px
+
+}
+
+#strona {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+body {
+  background-color: #EEE;
+  font-family: 'Courier New';
+  width: 1346px;
+}
